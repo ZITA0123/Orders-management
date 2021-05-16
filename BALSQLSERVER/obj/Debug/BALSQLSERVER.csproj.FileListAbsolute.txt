@@ -1,0 +1,18 @@
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\BALSQLSERVER\obj\Debug\BALSQLSERVER.csprojAssemblyReference.cache
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\BALSQLSERVER\obj\Debug\BALSQLSERVER.csproj.CoreCompileInputs.cache
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\BALSQLSERVER\bin\Debug\BALSQLSERVER.dll
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\BALSQLSERVER\bin\Debug\BALSQLSERVER.pdb
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\BALSQLSERVER\bin\Debug\DAL.dll
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\BALSQLSERVER\bin\Debug\DAL.pdb
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\BALSQLSERVER\obj\Debug\BALSQLSERVER.csproj.CopyComplete
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\BALSQLSERVER\obj\Debug\BALSQLSERVER.dll
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\BALSQLSERVER\obj\Debug\BALSQLSERVER.pdb
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\BALSQLSERVER\bin\Debug\BALSQLSERVER.dll
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\BALSQLSERVER\bin\Debug\BALSQLSERVER.pdb
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\BALSQLSERVER\bin\Debug\DAL.dll
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\BALSQLSERVER\bin\Debug\DAL.pdb
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\BALSQLSERVER\obj\Debug\BALSQLSERVER.csprojAssemblyReference.cache
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\BALSQLSERVER\obj\Debug\BALSQLSERVER.csproj.CoreCompileInputs.cache
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\BALSQLSERVER\obj\Debug\BALSQLSERVER.csproj.CopyComplete
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\BALSQLSERVER\obj\Debug\BALSQLSERVER.dll
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\BALSQLSERVER\obj\Debug\BALSQLSERVER.pdb

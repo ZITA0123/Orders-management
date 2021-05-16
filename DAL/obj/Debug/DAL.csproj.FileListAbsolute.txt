@@ -1,0 +1,6 @@
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\DAL\bin\Debug\DAL.dll
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\DAL\bin\Debug\DAL.pdb
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\DAL\obj\Debug\DAL.dll
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\DAL\obj\Debug\DAL.pdb

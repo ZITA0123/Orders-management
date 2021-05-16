@@ -1,0 +1,42 @@
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\bin\Debug\Mini Projet.exe.config
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\bin\Debug\Mini Projet.exe
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\bin\Debug\Mini Projet.pdb
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini Projet.csprojAssemblyReference.cache
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini_Projet.AddClient.resources
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini_Projet.AjoutCmd.resources
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini_Projet.AjouterLigCmd.resources
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini_Projet.GestionCommande.resources
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini_Projet.ListeClient.resources
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini_Projet.Produit.resources
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini_Projet.Properties.Resources.resources
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini Projet.csproj.GenerateResource.cache
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini Projet.csproj.CoreCompileInputs.cache
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini Projet.exe
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini Projet.pdb
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\bin\Debug\BALSQLSERVER.dll
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\bin\Debug\DAL.dll
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\bin\Debug\BALSQLSERVER.pdb
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\bin\Debug\DAL.pdb
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini Projet.csproj.CopyComplete
+D:\TEKUP2021\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini_Projet.AddProduit.resources
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\bin\Debug\Mini Projet.exe.config
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\bin\Debug\Mini Projet.exe
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\bin\Debug\Mini Projet.pdb
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\bin\Debug\BALSQLSERVER.dll
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\bin\Debug\DAL.dll
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\bin\Debug\BALSQLSERVER.pdb
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\bin\Debug\DAL.pdb
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini Projet.csprojAssemblyReference.cache
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini_Projet.AddClient.resources
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini_Projet.AddProduit.resources
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini_Projet.AjoutCmd.resources
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini_Projet.AjouterLigCmd.resources
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini_Projet.GestionCommande.resources
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini_Projet.ListeClient.resources
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini_Projet.Produit.resources
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini_Projet.Properties.Resources.resources
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini Projet.csproj.GenerateResource.cache
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini Projet.csproj.CoreCompileInputs.cache
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini Projet.csproj.CopyComplete
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini Projet.exe
+D:\TEKUP2021\SEMESTRE 1\Architecture_.NET_n-tiers\Gestion_Commande\Mini Projet\obj\Debug\Mini Projet.pdb
